@@ -25,4 +25,11 @@ RideIn is a command-line based cab booking system developed in C that simulates 
 ---
 
 ## 📁 File Structure
+RideIn/
+│
+├── main.c               # Main source code for the cab booking system
+├── users.txt            # Stores user registration/login data
+├── rides.txt            # Stores ride-related data (bookings, statuses)
+├── vehicles.txt         # Stores vehicle information (vehicle IDs, types)
+├── README.md            # Project documentation
 
